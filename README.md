@@ -28,7 +28,6 @@ SpeechSentiment is a command line Python application that allows users to analyz
 
    ```bash
    pip install -r requirements.txt
-   
 
 ### Usage
 
