@@ -5,7 +5,7 @@ SpeechSentiment is a command line Python application that allows users to analyz
 ## Technologies Used
 
 - Python
-- [Whisper model from OpenAI](https://whisper-api.readthedocs.io/)
+- [Whisper model from OpenAI](https://pypi.org/project/openai-whisper/)
 - [DistilBERT-based Sentiment Analysis model from Hugging Face](https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student)
 - **sounddevice:** Library for recording and playing audio.
 - **scipy:** Library for handling audio file I/O.
