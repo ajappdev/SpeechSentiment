@@ -48,5 +48,5 @@ The application transcribes the recorded/uploaded audio using the Whisper model 
 
 ### Developer
 
-The first commit of this project was made by Ajbar Alae in February 2024
+The first commit of this project was made by Ajbar Alae in November 2023
 
